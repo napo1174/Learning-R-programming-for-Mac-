@@ -7,6 +7,6 @@ to change permanently working directory (dropdown menus) --> R ->  Preferences -
 to change working directory (dropdown menus) --> Misc  ->  Change Working Directory (choose new wd)
 
 ## Scripts
-to create script (dropdown menus) -->
+to create script (dropdown menus) --> File  ->  New Document
 #
 to run script (commands) --> source('name of text.R')
