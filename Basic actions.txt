@@ -1,5 +1,5 @@
 to clear R-console (in Mac) 
           --> command+option+L
 to change permanently working directory
-          --> R ->  Preferences ->  Startup ->  Initial working directory ->  Change ## new working directory
+          --> R ->  Preferences ->  Startup ->  Initial working directory ->  Change ## choose new working directory
 
